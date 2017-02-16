@@ -1,0 +1,1 @@
+var myElement=document.getElementById("myElement"),mc=new Hammer(myElement);mc.on("panleft panright tap press",function(e){});
